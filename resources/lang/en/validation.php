@@ -77,6 +77,7 @@ return [
     'unique'               => 'The :attribute has already been taken.',
     'url'                  => 'The :attribute format is invalid.',
 
+    'captcha'              => 'The captcha is not correct.',
     /*
     |--------------------------------------------------------------------------
     | Custom Validation Language Lines
